@@ -140,3 +140,9 @@ body {
     transform: rotateX(-90deg);
   }
 }
+
+@media (max-width: 600px){
+  .todolist{
+    width: 90vw;
+  }
+}
