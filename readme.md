@@ -14,13 +14,12 @@
 </p>
 
 <img 
-    align="center"
-    width="75"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/lista-de-tarefas/crud.gif"
 />
 
 <h2>Layout Mobile</h2>
-<img 
+<img
+    width="150"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/lista-de-tarefas/versao-mobile.jpeg"
 />
 
