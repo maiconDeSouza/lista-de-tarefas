@@ -19,6 +19,7 @@
 
 <h2>Layout Mobile</h2>
 <img
+    align="center"
     width="300"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/lista-de-tarefas/versao-mobile.jpeg"
 />
