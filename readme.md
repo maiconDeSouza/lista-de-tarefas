@@ -14,7 +14,7 @@
 </p>
 
 <img 
-    width="250"
+    width="150"
     align="center"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/lista-de-tarefas/crud.gif"
 />
